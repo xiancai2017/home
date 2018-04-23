@@ -1,4 +1,7 @@
 aaaa
 12
+<<<<<<< HEAD
 master
-1
+=======
+def
+>>>>>>> def
